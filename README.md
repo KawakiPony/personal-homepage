@@ -4,7 +4,7 @@
 
 
 
-[Quick Experience](https://pony.gradgo.top/)
+<a href="https://pony.gradgo.top/" target="_blank">Quick Experience</a>
 
 
 
